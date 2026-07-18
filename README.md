@@ -6,7 +6,7 @@
 
 * MARS
 
-Developing a high-risk, high-value research laboratory and research programmes focused on energy.
+Developing high-risk, high-value research laboratory and research programmes focused on energy.
 
 The proposal is connected to the Strategic Independent Research Zone (SIRZ), the Foundation for Strategic Independent Research & Civic Ethics (FSIRCE), and Live Core: Field-Confined High-Energy Storage and Phase-Steered Coupling System, which is available on SSRN.
 
