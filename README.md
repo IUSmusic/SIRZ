@@ -1,5 +1,5 @@
 
-[![](mdl01.png)]
+![](mdl01.png)
 
 # SIRZ
 
