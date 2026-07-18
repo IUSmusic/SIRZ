@@ -2,9 +2,9 @@
 ![](mdl01.png)
 
 
-# MARS
+# SIRZ
 
-SRIZ
+PLANET MARS
 
 Developing high-risk, high-value research laboratory and research programmes focused on energy.
 
