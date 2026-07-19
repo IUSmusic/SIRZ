@@ -15,9 +15,7 @@
 | Project inception | March 16, 2025 |
 | Current revision | July 19, 2026 |
 | Document classification | Independent scientific research proposal |
-| Document version | 1.0 |
-| Presentation standard | Monochrome Markdown with APA 7 author-date citation style |
-| Intended readership | Researchers, engineers, scientific institutions, mission planners, governance specialists, and qualified funding bodies |
+| Document version | 3.0 |
 | Primary research emphasis | Resilient energy systems for sustained robotic and human activity on Mars |
 | Proposed institutional steward | Foundation for Strategic Independent Research and Civic Ethics, abbreviated FSIRCE |
 
